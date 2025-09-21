@@ -14,6 +14,9 @@ User → Flask Web Form → GitLab Import API → GitLab Status Polling
      → HTML Output (Status + YAML + Jenkinsfile + Progress Bar)
 ```
 
+<img width="784" height="358" alt="image" src="https://github.com/user-attachments/assets/0a3dd39f-1f2a-42b5-b854-247c1b9c8926" />
+
+
 ---
 
 ### 🛠️ Tech Stack
